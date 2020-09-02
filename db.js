@@ -4,7 +4,8 @@ export const videos = [
     title: "Video awesome",
     description: "This is something I love",
     views: 25,
-    videoFile: "https://archive.org/details/BigBuckBunny_124",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 123,
       name: "Bong",
@@ -16,7 +17,8 @@ export const videos = [
     title: "Video nice",
     description: "This is something I like",
     views: 26,
-    videoFile: "https://archive.org/details/BigBuckBunny_124",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 234,
       name: "Bong",
@@ -28,7 +30,8 @@ export const videos = [
     title: "Video cool",
     description: "This is something I hate",
     views: 30,
-    videoFile: "https://archive.org/details/BigBuckBunny_124",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 345,
       name: "Bong",
@@ -40,7 +43,8 @@ export const videos = [
     title: "Video beautifull",
     description: "This is something I liky",
     views: 50,
-    videoFile: "https://archive.org/details/BigBuckBunny_124",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 456,
       name: "Bong",
@@ -52,7 +56,8 @@ export const videos = [
     title: "Video good job",
     description: "This is something I ce",
     views: 45,
-    videoFile: "https://archive.org/details/BigBuckBunny_124",
+    videoFile:
+      "https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4",
     creator: {
       id: 567,
       name: "Bong",
